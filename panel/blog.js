@@ -55,13 +55,13 @@ function Speichern(){
             <html>\n\
             <html lang=de>\n\
             <head>\n\
-                <title>Christian G. - ' + websiteTitel + '</title>\n\
-                <script src="index.js"></script>\n\
+                <title>Linksjugend HB - ' + websiteTitel + '</title>\n\
+                <script src="/index.js"></script>\n\
                 <meta charset="utf-8"/>\n\
                 <time datetime="' + datum + '" pubdate="pubdate"></time>\n\
             </head>\n\
             <body>\n\
-                <div class="topnav blogEintragNav">\n\
+                <div class="topnav blogEintragNav" style="padding-left: 0;">\n\
                     <a href="javascript:history.back()">Zur&uumlck</a>\n\
                     <a class="active">' + titel + '</a>\n\
                 </div>\n\
@@ -79,7 +79,7 @@ function Speichern(){
     inhaltPreview = inhalt.slice(0, 160) + "..."
     link = '/' + filename + '.html';
 
-    blogLink = '<a href='+ link +' style="text-decoration: none;"><div class="blogLink" style="hyphens: auto">\n\
+    blogLink = '<a href=/blog/entries/'+ link +' style="text-decoration: none;"><div class="blogLink" style="hyphens: auto">\n\
         <h2>' + titel + '</h2>\n\
         <div class="datum">' + datum + '</div>\n\
         <p id="inhaltPreview">' + inhaltPreview +'</p>\n\
