@@ -50,7 +50,7 @@ if(current=="/m.twitter.timeline1.html"){
             window.location.replace("m.twitter.timeline2.html");
         }
         if(e=="right"){
-            window.location.replace("m.twitter.timeline3.html");
+            window.location.replace("m.twitter.timeline2.html");
         }
     })
 }
@@ -58,7 +58,7 @@ if(current=="/m.twitter.timeline1.html"){
 if(current=="/m.twitter.timeline2.html"){
     swiper.init(gestureZone, function(e) {
         if(e=="left"){
-            window.location.replace("m.twitter.timeline3.html");
+            window.location.replace("m.twitter.timeline1.html");
         }
         if(e=="right"){
             window.location.replace("m.twitter.timeline1.html");
@@ -66,16 +66,6 @@ if(current=="/m.twitter.timeline2.html"){
     })
 }
 
-if(current=="/m.twitter.timeline3.html"){
-    swiper.init(gestureZone, function(e) {
-        if(e=="left"){
-            window.location.replace("m.twitter.timeline1.html");
-        }
-        if(e=="right"){
-            window.location.replace("m.twitter.timeline2.html");
-        }
-    })
-}
 
 function touchVisible() {
     document.getElementById("touch").style.display="inherit";
