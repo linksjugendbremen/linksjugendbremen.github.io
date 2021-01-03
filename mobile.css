@@ -6,6 +6,9 @@
 
     text-transform: uppercase;
     font-weight: 600;
+
+    padding-left: 5vw;
+    padding-right: 5vw;
 }
 
 .topnavfixed{
