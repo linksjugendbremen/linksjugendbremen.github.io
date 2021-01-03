@@ -76,3 +76,15 @@ function spotify(){
         spotifyVisible = "0";
     }
 }
+
+function post(){
+    if (spotifyVisible == "0") {
+        document.getElementById("post").style["display"] = "inherit";
+        document.getElementById("postArrow").style["transform"] = "rotate(-180deg)";
+        spotifyVisible = "1";
+    } else {
+        document.getElementById("post").style["display"] = "none";
+        document.getElementById("postArrow").style["transform"] = "rotate(0deg)";
+        spotifyVisible = "0";
+    }
+}
