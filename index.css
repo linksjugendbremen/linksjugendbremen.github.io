@@ -197,17 +197,14 @@ input:hover {
     left: -5000px;
 }
 
-#indeximg {
-    max-width: 28%
-}
-
 #padding {
     padding-right: 33%
 }
 
 #aboutmetext {
-    padding-right: 33%;
-    font-size: 4vh;
+    font-size: 3.5vh;
+    margin-left: 2vh;
+    margin-right: 3vh;
 }
 
 #bottomTextIndex{
@@ -236,4 +233,10 @@ input:hover {
 
 #elemente{
     font-size: 200%
+}
+
+#indeximgImg{
+    max-width: 30vw;
+    margin-top: 30vh;
+    margin-bottom: 20vh;
 }
