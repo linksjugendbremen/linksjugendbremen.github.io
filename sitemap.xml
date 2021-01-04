@@ -1,59 +1,107 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://christiangerlin.de/</loc>
-	<lastmod>2021-01-02T09:34:13+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/PR.html</loc>
-	<lastmod>2021-01-02T09:34:13+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/aboutme.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/projects.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/PR.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/blog.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/projects.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/kontakt.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/blog.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/aboutme.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/kontakt.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/PMaktionstag.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/HanauerAnzeigerBelegexemplar.pdf</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/HanauerAnzeigerBelegexemplar.pdf</loc>
-	<lastmod>2021-01-02T09:34:17+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/PMaktionstag.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/bgaufbauen.html</loc>
-	<lastmod>2021-01-02T09:34:16+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/blog/entries/pflegeverbesserung.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/RechtsPolizei.html</loc>
-	<lastmod>2021-01-02T09:34:17+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/blog/entries/pm.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://christiangerlin.de/QuerdenkerRadikalisieren.html</loc>
-	<lastmod>2021-01-02T09:34:19+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://solidhb.de/blog/entries//pflegeverbesserung.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://solidhb.de/blog/entries//treffencorona.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//frieseanschlag.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//vaguinea.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//vagambia.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//lvv2019.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//wahlkampfbericht.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries//pm.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://solidhb.de/blog/entries/redebeitrag150319.html</loc>
+  <lastmod>2021-01-04T03:32:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
