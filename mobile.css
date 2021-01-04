@@ -234,7 +234,7 @@ input:hover {
     max-width: 60%
 }
 
-@media screen and (min-aspect-ratio: 11/20){
+@media screen and (min-aspect-ratio: 6/10){
     #indeximgImg{
         display: none;
     }
