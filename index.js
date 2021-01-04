@@ -1,6 +1,5 @@
 if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/Android/i))) {
     document.write('<link href="/mobile.css"  rel="stylesheet">');
-    document.getElementById('twitter.html').style.display="none";
 } else {
     document.write('<link href="/index.css"  rel="stylesheet">');
 }
@@ -20,7 +19,6 @@ function indexNoImgMobileSmall() {
         }
     }
 }
-
 
 function isIndex(){
     document.getElementById('index.html').classList.add('active');
