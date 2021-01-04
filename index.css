@@ -211,10 +211,14 @@ input:hover {
     color: #ffffff;
 }
 
-@media screen and (max-aspect-ratio: 16/10) {
-  img{
-    display: none;
-  }
+@media screen and (max-aspect-ratio: 11/10) {
+    img{
+        display: none;
+    }
+
+    #padding{
+        padding-right: 0;
+    }
 }
 
 .linksjugendLogo{
