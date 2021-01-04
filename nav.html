@@ -4,6 +4,16 @@
     });
 </script>
 
+<script>
+$(document).ready(function(){
+    $("a").click(function(event){
+        event.preventDefault();
+    //Or, depending on your use, you could use:
+       //return false;
+    });
+});
+</script>
+
 <link rel="preload" href="/index.css">
 <link rel="preload" href="/mobile.css">
 <link rel="preload" href="/index.js">
