@@ -12,3 +12,7 @@ function datumFontsize(){
         }
     }
 }
+
+function isIndex(){
+    document.getElementById('index.html').classList.add('active');
+}
