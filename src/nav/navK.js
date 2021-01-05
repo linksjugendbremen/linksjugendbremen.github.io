@@ -1,4 +1,4 @@
-$("#nav-placeholder-W").load("/src/nav/navW.html");
+$("#nav-placeholder-K").load("/src/nav/navK.html");
 var current = location.pathname.split("/")[1];
 
 if(current == "m.kontakt.html"){
