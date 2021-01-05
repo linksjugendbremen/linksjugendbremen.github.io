@@ -7,9 +7,13 @@
     text-transform: uppercase;
     font-weight: 600;
 
-    padding-left: 5vw;
-    padding-right: 5vw;
+    padding-left: 7vw;
+    padding-right: 7vw;
 }
+
+#navO{padding-left: 10.5vw; padding-right: 10.5vw}
+#navK{padding-left: 13.5vw; padding-right: 13.5vw;}
+#navW{padding-left: 16vw; padding-right: 16vw}
 
 .topnavfixed{
     position: fixed;
