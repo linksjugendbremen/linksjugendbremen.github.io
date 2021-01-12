@@ -1,6 +1,6 @@
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #ffffff;
+  background-color: #252525;
   overflow: hidden;
   position: relative;
 }
@@ -14,7 +14,7 @@
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #252525;
+  color: #00FFC2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -30,8 +30,8 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #252525;
-    color: white;
+    background-color: #00FFC2;
+    color: #252525;
     font-family: Infra-Bold;
 }
 
@@ -47,7 +47,7 @@
 
 p {
     font-family: Infra-Regular;
-    color: #E2190C;
+    color: #252525;
     font-size: 24px;
     padding-left: 1%;
     hyphens: auto
@@ -61,19 +61,19 @@ b {
 /* link color */
 a {
     font-family: Infra-Regular;
-    color: #c9ceff;
+    color: #252525;
     hyphens: auto
 }
 
 h1 {
     font-family: Infra-Bold;
-    color: #E2190C;
+    color: #252525;
     padding-left: 1%;
 }
 
 /* changes the backgrounds color */
 body {
-  background-color: #252525;
+  background-color: #00FFC2;
 }
 
 
@@ -111,7 +111,7 @@ input{
     padding: 12px 14px;
     text-decoration: none;
     font-size: 17px;
-    background-color: #252525;
+    background-color: #00FFC2;
     overflow: hidden;
     outline: none;
     border: none;

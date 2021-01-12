@@ -1104,7 +1104,7 @@
     function checkForCollision(obstacle, tRex, opt_canvasCtx) {
         var obstacleBoxXPos = Runner.defaultDimensions.WIDTH + obstacle.xPos;
 
-        // Adjustments are made to the bounding box as there is a 1 pixel white
+        // Adjustments are made to the bounding box as there is a 1 pixel #252525
         // border around the t-rex and obstacles.
         var tRexBox = new CollisionBox(
             tRex.xPos + 1,
