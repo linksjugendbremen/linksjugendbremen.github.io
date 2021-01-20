@@ -41,7 +41,6 @@
     background-color: #00FFC2;
     color: #252525;
     font-family: Infra-Bold;
-    height: 4vh;
 }
 
 @font-face {
@@ -204,7 +203,7 @@ input:hover {
 }
 
 #padding {
-    padding-right: 33%
+    margin-right: 33%
 }
 
 #aboutmetext {
@@ -247,6 +246,7 @@ input:hover {
 
 #indeximgImg{
     max-width: 30vw;
-    margin-top: 30vh;
-    margin-bottom: 20vh;
+    position: absolute;
+    margin-left: 37vw;
+    margin-top: -15vh;
 }
