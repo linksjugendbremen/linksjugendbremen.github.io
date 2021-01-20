@@ -34,8 +34,8 @@
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #00FFC2;
-  color: white;
+    background-color: #00FFC2;
+    color: #252525;
 }
 
 @font-face {
