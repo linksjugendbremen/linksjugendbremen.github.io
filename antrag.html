@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Start Auto Download file</title>
+<script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script>
+$(function() {
+$('a[data-auto-download]').each(function(){
+var $this = $(this);
+setTimeout(function() {
+window.location = $this.attr('href');
+}, 100);
+});
+});
+</script>
+</head>
+<body>
+<div class="wrapper">
+<p>Der Download sollte sofort starten, wenn nicht klicke
+<a data-auto-download href="/dateien/antrag.odt">hier</a>.</p>
+</div>
+</body>
+</html>
