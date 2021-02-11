@@ -4,13 +4,16 @@
     overflow: hidden;
     position: relative;
 
-    padding-left: 22vw;
-    padding-right: 22vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
-#navO{padding-left: 36vw; padding-right: 36vw;}
-#navK{padding-left: 37vw; padding-right: 37vw;}
-#navW{padding-left: 34vw; padding-right: 34vw;}
+#navO, #navK, #navW{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 
 
 .topnavfixed{
